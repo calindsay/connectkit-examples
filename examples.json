@@ -27,31 +27,31 @@
     "actions": [
       {
         "name": "List All Apps (v1)",
-        "premium": true,
+        "premium": false,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/aed5fcc374f34710b814bf8825d914f2"
       },
       {
         "name": "Submit App For Review (v1)",
-        "premium": true,
+        "premium": false,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/4455f2a49b12474d9588b5fd6df98939"
       },
       {
         "name": "Send TestFlight Invite (v1)",
-        "premium": true,
+        "premium": false,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/ed80f7a5676e4050bb93a043009ed267"
       },
       {
         "name": "Get Beta Tester Count (v1)",
-        "premium": true,
+        "premium": false,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/b338b5a0a8f544d3bfdca13706d88df9"
       },
       {
         "name": "Get Monthly Units (v2)",
-        "premium": true,
+        "premium": false,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/0db3e3675dee467ba0cbd82bacb348bd"
       },
@@ -62,13 +62,13 @@
     "actions": [
       {
         "name": "Charty Monthly Units (v2)",
-        "premium": true,
+        "premium": false,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/6d10fc8ca8b942a1a28755cea5f991ef"
       },
       {
         "name": "Charty Daily Units (v2)",
-        "premium": true,
+        "premium": false,
         "colorHex": "#fc6c85",
         "url": "https://www.icloud.com/shortcuts/b6d9abce4fac46a08b1eac63bcce2d51"
       }
